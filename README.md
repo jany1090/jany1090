@@ -3,6 +3,7 @@
 
 - 🌱 Estudando Java no Bootcamp ElasTech da SoulCode em parceira com a PagBank
 - 🎓 Formada em Tecnologia de Desenvolvimento em Backend na Unopar-Anhanguera (2023)
+- ☕ Um vício: café
 - 😄 Pronouns: Ela/Dela
 
 ##
