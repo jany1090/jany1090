@@ -8,7 +8,7 @@
 
 ##
 
-<div>
+<div style="display: inline_block"><br>
   <a href="https://github.com/jany1090/jany1090">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jany1090&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jany1090&layout-compact&langs_count=16&theme=dracula"/>
